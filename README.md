@@ -27,9 +27,9 @@ React, Next.js, TypeScript와 같은 최신 기술 스택을 활용해 사용자
   함께 여행할 메이트를 찾는 커뮤니티 플랫폼.  
   주요 기술: React · TypeScript · Recoil · React Query · Docker · AWS  
 
-- **Oriddle Frontend**  
-  Oriddle 클라이언트를 위한 프론트엔드 코드 컨벤션 및 폴더 구조 가이드.  
-  주요 기술: Vue.js · TypeScript  
+- **Oriddle**  
+  실시간 퀴즈 제공 서비스.  
+  주요 기술: Next.js, TypeScript, Styled-components, Jotai
 
 ## Contact
 
