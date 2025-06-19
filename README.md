@@ -15,7 +15,7 @@ React, Next.js, TypeScript와 같은 최신 기술 스택을 활용해 사용자
 - **Frontend:** React, Next.js, Vue.js, TypeScript, Vite, Tailwind CSS  
 - **State Management:** Recoil, Zustand, React Query, Redux  
 - **Backend & DevOps:** Node.js, Nest.js, Docker, AWS, GitHub Actions  
-- **Tools:** VSCode, Git, ESLint, Prettier, Playwright, Vitest  
+- **Tools:** VSCode, Git, ESLint, Prettier, Vitest  
 
 ## Selected Projects
 
