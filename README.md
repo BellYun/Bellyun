@@ -1,9 +1,6 @@
 # Hi, I'm JongYun Jeong 👋
 
-Frontend Developer | TUKorea
-
-[![GitHub followers](https://img.shields.io/github/followers/BellYun?label=Followers&style=social)](https://github.com/BellYun?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/BellYun?style=social)](https://github.com/BellYun?tab=repositories)
+Frontend Developer
 
 ## About Me
 
