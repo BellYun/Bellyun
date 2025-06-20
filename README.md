@@ -35,6 +35,3 @@ React, Next.js, TypeScript와 같은 최신 기술 스택을 활용해 사용자
 
 - 📧 jongyun.jeong.00@gmail.com  
 - 🔗 [https://github.com/BellYun](https://github.com/BellYun)
-
----
-⭐️ GitHub Profile: https://github.com/BellYun
