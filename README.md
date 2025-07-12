@@ -14,7 +14,7 @@ React, Next.js, TypeScript와 같은 최신 기술 스택을 활용해 사용자
 - **Backend & DevOps:** Node.js, Nest.js, Docker, AWS, GitHub Actions  
 - **Tools:** VSCode, Git, ESLint, Prettier, Vitest  
 
-## Selected Projects
+## Projects
 
 - **DeepBlue**  
   AI 기반 사진 인식으로 물고기 정보를 제공하는 웹 애플리케이션.  
