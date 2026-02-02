@@ -4,7 +4,7 @@ Frontend Developer
 
 ## About Me
 
-안녕하세요, 프론트엔드 개발자를 꿈꾸는 정종윤입니다.  
+안녕하세요, 프론트엔드 개발자 정종윤입니다.  
 React, Next.js, TypeScript와 같은 최신 기술 스택을 활용해 사용자 경험을 최적화하고, 퍼포먼스를 개선하는 데 관심이 많습니다.
 
 ## Tech Stack
