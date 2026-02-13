@@ -37,6 +37,7 @@ React, Next.js, TypeScript와 같은 최신 기술 스택을 활용해 사용자
 - [프로젝트 성능 최적화 경험 : 리소스 로딩 최적화](https://medium.com/@whd3558/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%94%8C%EB%A6%AC%ED%8C%85%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0-def90309d55f)
 - [프로젝트 성능 최적화 경험 : PDF 렌더링 개선기](https://medium.com/@whd3558/pdf-%EB%A0%8C%EB%8D%94%EB%A7%81-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B0%9C%EC%84%A0%EA%B8%B0-69b57283b283)
 - [테스트와 CI로 팀 개발의 기준을 코드로 고정해보기](https://medium.com/@whd3558/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-ci-%EC%A0%81%EC%9A%A9-e00b3564b42f)
+- [PDF.js·Firefox는 왜 나의 '최적화'를 거절했나?](https://medium.com/@whd3558/pdf-js-firefox%EB%8A%94-%EC%99%9C-%EB%82%98%EC%9D%98-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%A5%BC-%EA%B1%B0%EC%A0%88%ED%96%88%EB%82%98-b23ab159713b)
 
 ## Contact
 
