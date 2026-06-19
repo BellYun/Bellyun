@@ -50,11 +50,11 @@ Two merged contributions to the Nuxt ecosystem, focused on pnpm package resoluti
 
 - **[nuxt/cli #1283](https://github.com/nuxt/cli/pull/1283)**  
   pnpm 11 global virtual store 환경에서 Nuxt CLI가 Vite package metadata를 찾지 못하는 문제를 수정했습니다.  
-  Parent dependency 기반 package resolution과 회귀 테스트를 구현했으며, maintainer의 범용화 작업을 거쳐 `@nuxt/cli` v3.35.0에 반영됐습니다.
+  Parent dependency 기반 package resolution을 구현했으며, maintainer의 범용화 작업을 거쳐 `@nuxt/cli` v3.35.0에 반영됐습니다.
 
 - **[nuxt/content #3791](https://github.com/nuxt/content/pull/3791)**  
   Nuxt Content의 validator 탐색 실패를 package resolution과 duplicate module evaluation 문제로 나누어 분석했습니다.  
-  Module-relative dependency resolution, shared validator context와 회귀 테스트를 구현했으며, 프로젝트 convention에 맞춘 refinement 후 main에 병합됐습니다.
+  Module-relative dependency resolution, shared validator context를 구현했으며, 프로젝트 convention에 맞춘 refinement 후 main에 병합됐습니다.
 
 ## Contact
 
