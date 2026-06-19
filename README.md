@@ -41,6 +41,21 @@ React, Next.js, TypeScript와 같은 최신 기술 스택을 활용해 사용자
 - [pnpm 11 global virtual store에서 Nuxt CLI 버전 배너가 깨진 이유](https://medium.com/@whd3558/pnpm-11-global-virtual-store%EC%97%90%EC%84%9C-nuxt-cli-%EB%B2%84%EC%A0%84-%EB%B0%B0%EB%84%88%EA%B0%80-%EA%B9%A8%EC%A7%84-%EC%9D%B4%EC%9C%A0-4b13a9f9ca59)
 - [일본 사용자 유입을 실제 사용으로 연결하기 위한 다국어 SEO 개선기](https://medium.com/@whd3558/%EC%9D%BC%EB%B3%B8-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9C%A0%EC%9E%85%EC%9D%84-%EC%8B%A4%EC%A0%9C-%EC%82%AC%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-seo-%EA%B0%9C%EC%84%A0%EA%B8%B0-468a345f6f7e)
 - [GPTBot이 내 커피를 대신 마셨다](https://medium.com/@whd3558/gptbot%EC%9D%B4-%EB%82%B4-%EC%BB%A4%ED%94%BC%EB%A5%BC-%EB%8C%80%EC%8B%A0-%EB%A7%88%EC%85%A8%EB%8B%A4-09066976dec1)
+
+## Open Source Contributions
+
+### Nuxt Ecosystem
+
+Two merged contributions to the Nuxt ecosystem, focused on pnpm package resolution and module evaluation edge cases.
+
+- **[nuxt/cli #1283](https://github.com/nuxt/cli/pull/1283)**  
+  pnpm 11 global virtual store 환경에서 Nuxt CLI가 Vite package metadata를 찾지 못하는 문제를 수정했습니다.  
+  Parent dependency 기반 package resolution과 회귀 테스트를 구현했으며, maintainer의 범용화 작업을 거쳐 `@nuxt/cli` v3.35.0에 반영됐습니다.
+
+- **[nuxt/content #3791](https://github.com/nuxt/content/pull/3791)**  
+  Nuxt Content의 validator 탐색 실패를 package resolution과 duplicate module evaluation 문제로 나누어 분석했습니다.  
+  Module-relative dependency resolution, shared validator context와 회귀 테스트를 구현했으며, 프로젝트 convention에 맞춘 refinement 후 main에 병합됐습니다.
+
 ## Contact
 
 - 📧 jongyun.jeong.00@gmail.com  
