@@ -42,6 +42,7 @@ React, Next.js, TypeScript와 같은 최신 기술 스택을 활용해 사용자
 - [일본 사용자 유입을 실제 사용으로 연결하기 위한 다국어 SEO 개선기](https://medium.com/@whd3558/%EC%9D%BC%EB%B3%B8-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9C%A0%EC%9E%85%EC%9D%84-%EC%8B%A4%EC%A0%9C-%EC%82%AC%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-seo-%EA%B0%9C%EC%84%A0%EA%B8%B0-468a345f6f7e)
 - [GPTBot이 내 커피를 대신 마셨다](https://medium.com/@whd3558/gptbot%EC%9D%B4-%EB%82%B4-%EC%BB%A4%ED%94%BC%EB%A5%BC-%EB%8C%80%EC%8B%A0-%EB%A7%88%EC%85%A8%EB%8B%A4-09066976dec1)
 - [7일짜리 캐시가 하루 만에 다시 MISS가 난 이유](https://medium.com/@whd3558/7%EC%9D%BC%EC%A7%9C%EB%A6%AC-%EC%BA%90%EC%8B%9C%EA%B0%80-%ED%95%98%EB%A3%A8-%EB%A7%8C%EC%97%90-%EB%8B%A4%EC%8B%9C-miss%EA%B0%80-%EB%82%9C-%EC%9D%B4%EC%9C%A0-9038fe4dcaa2?sharedUserId=whd3558)
+- [프로젝트 성능 최적화 경험 : PDF 메모리 개선기](https://medium.com/@whd3558/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B2%BD%ED%97%98-pdf-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B0%9C%EC%84%A0%EA%B8%B0-0830661e9551)
 
 ## Open Source Contributions
 
