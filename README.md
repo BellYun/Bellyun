@@ -22,7 +22,7 @@ Frontend Developer
 - **INP 80.9% 단축**: 롱태스크 분산 및 렌더링 스케줄링으로 **Lab INP p95 1,128ms ➔ 216ms** 개선
 - **캐시 MISS 50.1%p 절감**: 공용 후보군 단위 캐시 키 재설계로 **운영 Data Cache MISS 72.5% ➔ 22.4%** 최적화
 
-### [ReXume](https://github.com/ReXume/techeer-resume)
+### ReXume
 웹 기반 PDF 뷰어 및 이력서 피드백 플랫폼 (팀 프로젝트 / FE 3인)  
 *React, TypeScript, PDF.js, Zustand, Tailwind CSS, Vitest*
 - **Canvas 메모리 63.2% 절감**: 50페이지 렌더링 시 LRU 캐시 및 `canvas.width=0` 초기화로 **메모리 증가분 1.46GB ➔ 539MB** 통제
