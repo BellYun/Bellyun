@@ -53,7 +53,7 @@ Two merged contributions to the Nuxt ecosystem, focused on pnpm package resoluti
 - [PDF.js 메모리 누수 개선기: Canvas backing store 초기화로 메모리 63.2% 절감](https://medium.com/@whd3558/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B2%BD%ED%97%98-pdf-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B0%9C%EC%84%A0%EA%B8%B0-0830661e9551)
 - [TTL은 캐시 재사용을 보장하지 않는다: 비싼 MISS를 줄이는 캐시 키 설계](https://medium.com/@whd3558/7%EC%9D%BC%EC%A7%9C%EB%A6%AC-%EC%BA%90%EC%8B%9C%EA%B0%80-%ED%95%98%EB%A3%A8-%EB%A7%8C%EC%97%90-%EB%8B%A4%EC%8B%9C-miss%EA%B0%80-%EB%82%9C-%EC%9D%B4%EC%9C%A0-9038fe4dcaa2)
 - [pnpm 11 global virtual store에서 Nuxt CLI 버전 배너가 깨진 이유](https://medium.com/@whd3558/pnpm-11-global-virtual-store%EC%97%90%EC%84%9C-nuxt-cli-%EB%B2%84%EC%A0%84-%EB%B0%B0%EB%84%88%EA%B0%80-%EA%B9%A8%EC%A7%84-%EC%9D%B4%EC%9C%A0-4b13a9f9ca59)
-👉 [Medium에서 전체 기술 블로그 글 보기 ➔](https://medium.com/@whd3558)
+- 👉 [Medium에서 전체 기술 블로그 글 보기 ➔](https://medium.com/@whd3558)
 
 ## Contact
 
